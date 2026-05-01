@@ -30,7 +30,7 @@ It helps analyze business performance using interactive visuals.
 
 ## 📷 Dashboard Preview
 
-(Add screenshot here)
+WhatsApp Image 2026-05-01 at 9.13.10 PM.jpeg
 
 ## 📈 Insights
 
