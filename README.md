@@ -31,6 +31,7 @@ It helps analyze business performance using interactive visuals.
 ## 📷 Dashboard Preview
 
 WhatsApp Image 2026-05-01 at 9.13.10 PM.jpeg
+WhatsApp Image 2026-05-01 at 9.24.29 PM.jpeg
 
 ## 📈 Insights
 
