@@ -30,9 +30,8 @@ It helps analyze business performance using interactive visuals.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard_overview.png)
-![Dashboard](dashboard_analysis.png)
-
+![Dashboard](powerbi_dashboard_overview.png)
+![Dashboard](powerbi_dashboard_analysis.png)
 ## 📈 Insights
 
 * Amazon contributes highest sales
